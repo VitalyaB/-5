@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\bin\Debug\ООП 5.exe.config
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\bin\Debug\ООП 5.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\bin\Debug\ООП 5.pdb
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\obj\Debug\ООП 5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\obj\Debug\ООП 5.exe
+C:\Users\User\Desktop\Программы С#\ООП\ООП 5\ООП 5\obj\Debug\ООП 5.pdb
